@@ -1,0 +1,16 @@
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.exe
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.deps.json
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.runtimeconfig.json
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.runtimeconfig.dev.json
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.dll
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\ref\AoC_Day1.dll
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\bin\Debug\net5.0\AoC_Day1.pdb
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.csproj.AssemblyReference.cache
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.AssemblyInfoInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.AssemblyInfo.cs
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.csproj.CoreCompileInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.dll
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\ref\AoC_Day1.dll
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.pdb
+D:\C# Projects\Advent_of_Code\AoC_Day1\AoC_Day1\obj\Debug\net5.0\AoC_Day1.genruntimeconfig.cache
