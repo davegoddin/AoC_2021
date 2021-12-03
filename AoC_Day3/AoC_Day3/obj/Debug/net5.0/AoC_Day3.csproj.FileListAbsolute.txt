@@ -1,0 +1,16 @@
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.exe
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.deps.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.runtimeconfig.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.runtimeconfig.dev.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\ref\AoC_Day3.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\bin\Debug\net5.0\AoC_Day3.pdb
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.csproj.AssemblyReference.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.AssemblyInfoInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.AssemblyInfo.cs
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.csproj.CoreCompileInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\ref\AoC_Day3.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.pdb
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\obj\Debug\net5.0\AoC_Day3.genruntimeconfig.cache
