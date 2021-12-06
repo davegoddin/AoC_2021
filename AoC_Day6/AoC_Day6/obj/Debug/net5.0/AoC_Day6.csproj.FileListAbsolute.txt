@@ -1,0 +1,48 @@
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.exe
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.deps.json
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.json
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.dev.json
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.dll
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\ref\AoC_Day6.dll
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.pdb
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.AssemblyReference.cache
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfoInputs.cache
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfo.cs
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.CoreCompileInputs.cache
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.dll
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\ref\AoC_Day6.dll
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.pdb
+C:\Users\g023191l\source\repos\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.genruntimeconfig.cache
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.exe
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.deps.json
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.json
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.dev.json
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.dll
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\ref\AoC_Day6.dll
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.pdb
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.AssemblyReference.cache
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfoInputs.cache
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfo.cs
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.CoreCompileInputs.cache
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.dll
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\ref\AoC_Day6.dll
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.pdb
+C:\Users\g023191l\OneDrive - Staffordshire University\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.genruntimeconfig.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.exe
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.deps.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.runtimeconfig.dev.json
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\ref\AoC_Day6.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\bin\Debug\net5.0\AoC_Day6.pdb
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.AssemblyReference.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfoInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.AssemblyInfo.cs
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.csproj.CoreCompileInputs.cache
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\ref\AoC_Day6.dll
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.pdb
+D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day6\AoC_Day6\obj\Debug\net5.0\AoC_Day6.genruntimeconfig.cache
