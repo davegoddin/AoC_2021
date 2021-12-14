@@ -7,7 +7,7 @@ namespace AoC_Day12
     {
         static void Main(string[] args)
         {
-            string[] input = System.IO.File.ReadAllLines(@"D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day12\input.txt");
+            string[] input = System.IO.File.ReadAllLines(@"C:\Users\g023191l\Source\Repos\AoC_2021\AoC_Day12\input.txt");
 
             Dictionary<string, Cave> caves = new Dictionary<string, Cave>();
             
@@ -35,14 +35,32 @@ namespace AoC_Day12
                 }
             }
 
-            List<List<string>> paths = new List<List<string>>();
+            Queue<Path> paths = new Queue<Path>();
+            List<Path> completePaths = new List<Path>();
 
+            paths.Enqueue(new Path(new List<Cave> { caves["start"] }));
+
+            while (paths.Count > 0)
+            {
+                Path currentPath = paths.Dequeue();
+                List<Path> newBranches = currentPath.CreateBranches();
+                foreach (Path branch in newBranches)
+                {
+                    // Console.WriteLine(branch.Caves.Count + " - " + branch.Complete);
+                    if (branch.Complete)
+                    {
+                        completePaths.Add(branch);
+                    }
+                    else
+                    {
+                        paths.Enqueue(branch);
+                    }
+                }
+            }
             
 
 
-
-
-
+            Console.WriteLine(completePaths.Count);
         }
     }
 }

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AoC_Day3
-build_property.ProjectDir = D:\C# Projects\Advent_of_Code\AoC_2021\AoC_Day3\AoC_Day3\
+build_property.ProjectDir = C:\Users\g023191l\Source\Repos\AoC_2021\AoC_Day3\AoC_Day3\
